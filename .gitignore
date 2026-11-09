@@ -1,0 +1,17 @@
+# Local source files and working materials are not part of the published site.
+/Видео на экран.MOV
+/Фото 1.JPG
+/Фото 2.HEIC
+/tz-*.txt
+/tools/
+/directions/
+/hero-selected/
+/warm-retail-concepts-2026-11-02/
+/TavrioGrotesk-*.otf
+/assets/concepts/
+
+# Local development files.
+/.vscode/
+/node_modules/
+/.env*
+*.log
